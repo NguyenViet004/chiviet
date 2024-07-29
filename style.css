@@ -1,0 +1,32 @@
+#img1{
+    width: 600px;
+    height: 400px;
+    position: absolute;
+
+  
+}
+#img2{
+    width: 360px;
+    height: 360px;
+    position: absolute;
+    margin-left: 270px;
+
+   
+}
+#img3{
+    width: 730px;
+    height: 620px;
+    border-radius: 10px;
+    position: absolute;
+
+}
+#img4{
+    width: 400px;
+    height: 500px;
+    position: absolute;
+
+   
+}
+img{
+    text-align: center;
+}
